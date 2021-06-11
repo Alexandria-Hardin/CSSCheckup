@@ -1,0 +1,34 @@
+/* rule-set#1: All h3 tags within the .css-classes will have a background of cornflowerblue */
+.css-classes h3{
+    background-color:cornflowerblue
+}
+
+/* rule-set #2 */
+#number-one{
+    color:darkgoldenrod
+}
+
+h2{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.css-classes{
+border: 4px darkgreen;
+margin-top: 50px;
+margin-right: 150px;
+margin-bottom: 25px;
+}
+
+.width-and-height{
+    width: 175px;
+    height: 200px;
+}
+
+.border-style p{
+    border-style: solid
+}
+
+.background-1{
+    background-color: burlywood;
+}
+
